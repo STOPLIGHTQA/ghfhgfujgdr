@@ -1,0 +1,16 @@
+{
+  "title": "hjbvjfbvjkfv",
+  "x-stoplight": {
+    "id": "vgcteav97irm4"
+  },
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "x-stoplight": {
+        "id": "ipbt6hg1w9hme"
+      }
+    }
+  },
+  "x-internal": true
+}
