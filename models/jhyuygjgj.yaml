@@ -5,7 +5,7 @@ type: object
 description: jgfytyug
 properties:
   id:
-    type: string
+    $ref: ./uguiiuthg.json
     x-stoplight:
       id: qqrx4tefmbyat
   gygg:

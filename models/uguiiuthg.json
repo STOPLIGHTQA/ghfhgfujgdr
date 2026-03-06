@@ -6,7 +6,7 @@
   "type": "object",
   "properties": {
     "id": {
-      "type": "string",
+      "$ref": "./jhyuygjgj.yaml",
       "x-stoplight": {
         "id": "cnxo1m5u0ko68"
       }
